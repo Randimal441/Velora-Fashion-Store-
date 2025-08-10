@@ -18,5 +18,6 @@ This Figma project showcases a clean, modern, and responsive UI design for **Vel
 
 ### Final UI Mockups: 
 Figma prototype link -
+https://www.figma.com/proto/Aui1M0OBrBxoaeAqPGvyJW/Velora-Clothing-Store?page-id=0%3A1&node-id=13-3&p=f&viewport=91%2C430%2C0.12&t=HRrrCunrKN3F1jMT-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=13%3A3
 
 
