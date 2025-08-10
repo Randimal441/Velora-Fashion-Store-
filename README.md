@@ -14,3 +14,9 @@ This Figma project showcases a clean, modern, and responsive UI design for **Vel
 - ✍️ Clear typography for easy readability.  
 - 🧭 User-friendly navigation bar for quick access to all pages.  
 - 🖼️ High-quality product imagery to enhance visual appeal. 
+
+
+### Final UI Mockups: 
+Figma prototype link -
+
+
